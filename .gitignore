@@ -93,3 +93,6 @@ db.sqlite3
 # Custom
 notes.md
 notes.txt
+
+#PyCharm stuff
+.idea/
